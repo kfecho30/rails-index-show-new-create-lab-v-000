@@ -8,5 +8,5 @@ class CreateCoupons < ActiveRecord::Migration
     end
     
   end
-  
+
 end
